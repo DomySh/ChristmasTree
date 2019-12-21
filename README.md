@@ -1,12 +1,12 @@
 # Christmas Tree
-## Merry Christmas!
+## Merry Christmas :) !!!
 <br/>
 <img src="TerminalTree.png" />
 <br/>
 
-### ALLERT! This script is activated by <b>ChristmasMagic.event</b>!
+### ALLERT! This script is activated by ChristmasMagic.event!
 
-<b>ChristmasMagic.event</b> is active <b>from the 1st december to 30th december</b><br/>
+<b>ChristmasMagic.event</b> is active <b>from the 1st december to 30th december</b>.<br/>
 You can active this script only in this dates....
 
 ### Make your terminal ready for Christmas!
