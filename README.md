@@ -4,9 +4,9 @@
 <img src="TerminalTree.png" />
 <br/>
 
-### ALLERT! This script is activated by ChristmasMagic!
+### ALLERT! This script is activated by ChristmasMagic.event!
 
-ChristmasMagic is active from the first december to 30 december
+ChristmasMagic.event is active from the first december to 30 december
 You can active this script only in this dates....
 
 ### Make your terminal ready for Christmas!
