@@ -84,6 +84,11 @@ void alberoDiNatale(int altezza,int altezzaStelo,int larghezzaStelo,string print
 }
 
 int main(int argn,char** args){
+    time_t now = time(NULL);
+    tm* time = localtime(&now);
+    if(time->tm_mon != 11)return 0;
+    if(time->tm_mday == 31)return 0;
+    
     int inp[] = {10,3,5};
     string inps = "      ";
 	if(argn > 1){
@@ -93,7 +98,7 @@ int main(int argn,char** args){
     if(argn >= 5){
         inps = string(args[4]);
     }
-    srand(time(NULL));
+    srand(now);
     cout << endl;
     alberoDiNatale(inp[0],inp[1],inp[2],inps);
     cout << _RED << "\n|  --> Merry Christmas :) <--  |\n\n" << _RESET;
