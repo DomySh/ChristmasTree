@@ -1,5 +1,6 @@
 # Christmas Tree
-Merry Christmas!
+## Merry Christmas!
+<br/>
 <img src="TerminalTree.png" />
 <br/>
 Compile the program and call it in .bashrc
