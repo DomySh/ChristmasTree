@@ -6,7 +6,7 @@
 
 ### ALLERT! This script is activated by ChristmasMagic.event!
 
-ChristmasMagic.event is active <span style="color:red;">from the 1st december to 30th december</span><br/>
+ChristmasMagic.event is active <span style="color:#FF0000;">from the 1st december to 30th december</span><br/>
 You can active this script only in this dates....
 
 ### Make your terminal ready for Christmas!
