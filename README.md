@@ -7,7 +7,7 @@
 ### ALLERT! This script is activated by ChristmasMagic.event!
 
 <b>ChristmasMagic.event</b> is active <b>from the 1st december to 30th december</b>.<br/>
-You can active this script only in this dates....
+You can active this script only in these days....
 
 ### Make your terminal ready for Christmas!
 
