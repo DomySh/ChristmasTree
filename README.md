@@ -14,3 +14,6 @@ You can active this script only in these days....
 Compile the program and call it in .bashrc
 for have a christmas tree on your terminal!
 
+***This project is just for fun :)
+but usefull for make colored your terminal***
+
